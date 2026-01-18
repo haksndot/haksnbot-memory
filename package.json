@@ -1,0 +1,14 @@
+{
+  "name": "haksnbot-recall",
+  "version": "1.0.0",
+  "description": "MCP server for agent memory storage and retrieval",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "better-sqlite3": "^11.0.0"
+  }
+}
