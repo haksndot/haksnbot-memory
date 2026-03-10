@@ -2,7 +2,7 @@
 
 An MCP (Model Context Protocol) server that provides persistent memory storage for AI agents. Uses SQLite with full-text search for efficient storage and retrieval of memories.
 
-> **Part of the Haksnbot suite:** This project was originally developed as part of [Haksnbot](https://github.com/haksndot), an autonomous Minecraft bot. The suite includes four repos that work together: [haksnbot-tools](https://github.com/haksndot/haksnbot-tools) (Minecraft bot control), [haksnbot-agent](https://github.com/haksndot/haksnbot-agent) (the autonomous agent), [haksnbot-admin](https://github.com/haksndot/haksnbot-admin) (server administration), and [haksnbot-memory](https://github.com/haksndot/haksnbot-memory) (this repo - persistent memory). Each can be used independently, but they're designed to work together.
+> **Part of the Haksnbot suite:** This project was originally developed as part of [Haksnbot](https://github.com/haksndot), an autonomous Minecraft bot. The suite includes four repos that work together: [haksnbot-tools](https://github.com/haksndot/haksnbot-tools) (Minecraft bot control), [haksnbot-mind](https://github.com/haksndot/haksnbot-mind) (the autonomous agent), [haksnbot-admin](https://github.com/haksndot/haksnbot-admin) (server administration), and [haksnbot-memory](https://github.com/haksndot/haksnbot-memory) (this repo - persistent memory). Each can be used independently, but they're designed to work together.
 
 ## Features
 
@@ -100,7 +100,7 @@ Each memory contains:
 
 ## Related Projects
 
-- [haksnbot-agent](https://github.com/haksndot/haksnbot-agent) - Autonomous Minecraft bot using Claude Agent SDK
+- [haksnbot-mind](https://github.com/haksndot/haksnbot-mind) - Autonomous Minecraft bot using Claude Agent SDK
 - [haksnbot-tools](https://github.com/haksndot/haksnbot-tools) - Minecraft MCP tools
 - [haksnbot-admin](https://github.com/haksndot/haksnbot-admin) - Server administration MCP tools
 
